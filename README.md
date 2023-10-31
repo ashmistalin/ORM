@@ -48,8 +48,8 @@ class Player_Admin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-
-
+![Screenshot (405)](https://github.com/ashmistalin/ORM/assets/103128410/65ee369c-199d-482b-a790-a964e8aaedf1)
+![Screenshot (406)](https://github.com/ashmistalin/ORM/assets/103128410/5cb5b895-bea1-43df-9b99-8c001077d616)
 
 
 ## RESULT
