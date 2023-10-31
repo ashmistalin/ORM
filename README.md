@@ -49,7 +49,7 @@ class Player_Admin(admin.ModelAdmin):
 
 ## OUTPUT
 ![Screenshot (405)](https://github.com/ashmistalin/ORM/assets/103128410/75ebb2fb-4f9b-4c8e-b961-973368382f85)
-![Screenshot (406)](https://github.com/ashmistalin/ORM/assets/103128410/5cb5b895-bea1-43df-9b99-8c001077d616)
+![Screenshot (409)](https://github.com/ashmistalin/ORM/assets/103128410/ebece0e7-7105-4a83-9b1d-0fd04ceed27c)
 
 
 ## RESULT
